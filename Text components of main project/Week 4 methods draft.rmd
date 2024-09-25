@@ -13,3 +13,12 @@ Conceptual overview of data sets:
 Types of statistical models to consider:
     Structural equation mode:
         Recommended by Eryn
+
+```{r simulate trait of interest}
+rnorm(1000, 0, 10)->trait_of_interest ### change this to be a trait that you're actually interested in, with an appropriate distribution! 
+
+plot(density(trait_of_interest))
+min(trait_of_interest)
+max(trait_of_interest)
+
+```
