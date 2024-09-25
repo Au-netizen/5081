@@ -1,0 +1,15 @@
+Week 4 methods draft
+
+Conceptual overview of data sets:
+    End point is bee species abundance and frequency of given species per study 
+    sites
+        From this there are series of independent variables that may be tied to 
+        the bee variables: road width, loudness, proximity of larger parks/plant
+        zones near the study site
+        There is also plant abundance and composition per site, which may also 
+        be influenced by: road width, soil width, soil composition data, water 
+        runoff and.or rainwater volume, (potentially)
+
+Types of statistical models to consider:
+    Structural equation mode:
+        Recommended by Eryn
