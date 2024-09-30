@@ -15,7 +15,7 @@ Types of statistical models to consider:
         Recommended by Eryn
 
 ```{r simulate trait of interest}
-rnorm(1000, 0, 10)->trait_of_interest ### change this to be a trait that you're actually interested in, with an appropriate distribution! 
+rnorm(1000, 0, 10)->trait_of_interest
 
 plot(density(trait_of_interest))
 min(trait_of_interest)
