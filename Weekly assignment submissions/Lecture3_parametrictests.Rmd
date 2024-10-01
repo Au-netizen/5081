@@ -21,8 +21,11 @@ NOTE: There are 9 questions below to answer. Do your best to answer them in full
 QUESTION: Describe the trait that you're simulating. This can be a real trait that you are working on, or hope to work on, or it can be completely made up. 
 Pay special attention to the N that you're expecting, the mean, and the sd around the mean. 
 
+Here I put the standard deviation as 300, basically in practice it's gambling 
+for what the distribution will look like. 
+
 ```{r simulate trait of interest}
-rnorm(1000, 0, 10)->trait_of_interest ### change this to be a trait that you're actually interested in, with an appropriate distribution! 
+rnorm(1000, 20, 300)->trait_of_interest ### change this to be a trait that you're actually interested in, with an appropriate distribution! 
 
 plot(density(trait_of_interest))
 min(trait_of_interest)

@@ -1,4 +1,40 @@
 BIOL5081 Draft Methods Section (field/lab methods)
 
 Summarized overview of grad project
-	Looking at the
+	Looking at the conditions of roadside plant patches that enable higher 
+	abundance of pollinators, in particular bee species, sorted by different
+	possible independent variables in this setting. Data points of this can be
+	bee species composition, bee abundance for a given species, bee abundance
+	for all species, proportionate bee species composition for every given site.
+		Some traits are pretty simple to measure ie road width, just look at 
+		google maps or a GIS.
+		Others are more tricky, ie soil data. Soil core samples needed then
+		analyzed in a seperate facility where after I get composition data of
+		various materials minerals etc to work with.
+		In total the variables potentially affecting bee variables are: road
+		width, average noise (from cars mostly...) over 24hrs or maybe over a
+		week, average noise during the hours ideal/most common for bee
+		pollination during a day where weather conditions are favourable for
+		them, traffic density (this one is tricky, hard to say if it will be
+		categorical or quantitative), proximity of larger pollinating plant
+		sites/parks
+
+Exclusion criteria:
+	Highways and in particular their intersections were not included even though
+	they in some ways fill the criteria for the study (chunk of plants by roads)
+	they are significantly different from the rest of current study sites in how
+	intense the density of traffic is, specific elevation changes for the plants
+	patch compared to the more residential/urban sites.
+	Some capacity of native pollinating plants, or perhaps another way of
+	putting it is plants that one would see in wilderness/park patches (because
+	some non-native plants have become especially successful in Ontario, and can
+	be significant pollinators) is needed for a site to be suitable for a study
+	site. Basically stuff like specfically picked vines roses etc are not 
+	suitable.
+	There should be a 500m radius from a study site to other study sites, based
+	on established threshold of movement patterns of bees (another way of
+	saying is that sites need to be 1km apart).
+	The plant patches have to be beside roads with car traffic, ie train, bike,
+	tram traffic does not work here. Walking trails do not fit, basically it is
+
+

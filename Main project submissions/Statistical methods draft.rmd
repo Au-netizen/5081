@@ -13,6 +13,10 @@ Conceptual overview of data sets:
 Types of statistical models to consider:
     Structural equation mode:
         Recommended by Eryn
+    Multiple regression may be useful, just helpful to visualize multiple things
+    and how they affect a given variable. Or maybe variables I would not expect
+    like soil content will have. Have to start with assumption that they are not
+    colinear aka no independent variables are redundant.
 
 ```{r simulate trait of interest}
 rnorm(1000, 0, 10)->trait_of_interest
