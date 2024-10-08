@@ -35,6 +35,14 @@ Exclusion criteria:
 	on established threshold of movement patterns of bees (another way of
 	saying is that sites need to be 1km apart).
 	The plant patches have to be beside roads with car traffic, ie train, bike,
-	tram traffic does not work here. Walking trails do not fit, basically it is
+	tram traffic does not work here, walking trails do not fit. These lead to
+	different types of pollutants, which may significantly impact data points
+	such as soil content. Plants and pollinators beside train infrastructure
+	likely is of a large enough scope to warrant its own project.
+	There should be some sort of grassy control nearby every given study site as
+	a comparison point.
+	
 
+Methods:
+	jsusj
 
