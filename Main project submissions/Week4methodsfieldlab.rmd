@@ -44,5 +44,4 @@ Exclusion criteria:
 	
 
 Methods:
-	jsusj
-aaaa
+	Soil sampling: soil core sampler used 

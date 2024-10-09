@@ -1,0 +1,22 @@
+Binomial distribution is just amount of two outcome tests
+
+Logistic regression can model probability of a discrete outcome y
+    can describe this with a linear function
+
+odds ratio is is back-transformed from the log of everything
+a logistic model over linear model will have an intersection point/inflection
+point, which defines "we expect zeros vs we expect ones"
+    sigmoid function s curve for logistic model
+
+odds ratio us ubcreased ir decreased idds if iytcine y per unit increase of x;
+because it's a ratio a value of 1 is just equally likely, more than 1 is more
+likely, less than 1 is less likely
+    in practice a constant value is iffy, because of stuff like diminishing
+    returns toxicity etc
+
+poisson uses count data ie number of things
+transofrms non-linear to linear form to make the rest of our work easier
+
+negative binomial when variance is larger than mean, so a more flexible model
+than poisson because poisson assumption is that variance equals mean
+
