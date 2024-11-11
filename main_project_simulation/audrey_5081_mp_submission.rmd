@@ -1,0 +1,14 @@
+Version info:
+    R version 4.3.3
+    Packages:
+        lavaam version 0.6-19
+        LISREL version
+        Onyx version
+        OpenMx version
+        sem version 3.1-16
+        semPlot version 1.1.6
+
+High-level overview: end point of this simulation is a set of structural
+equation models, which are in practice connecting sets of many variable's
+associations with each other. And in the context of field ecology, a lot of 
+things such as linear mixed models are utilized.
