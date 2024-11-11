@@ -1,0 +1,9 @@
+High level overview of what is occuring:
+    Plain english text of what exactly it is that I am doing here, summary of
+    why my statistical methods are the way they are, and how I went about simulating
+    them here.
+        The what exactly it is I'm doing here should have a lot citations
+    The code teehee, in R cuz someone will be giving feedback for me
+
+Let's look at some research papers from my zotero list I find relevant here
+    
