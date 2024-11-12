@@ -10,6 +10,7 @@ Version info:
 
 Packages:
 ```{r}
+load("languageserver")
 load("lavaan")
 load("lisrelToR")
 load("MplusAutomation")
